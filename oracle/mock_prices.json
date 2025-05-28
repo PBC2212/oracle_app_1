@@ -1,0 +1,16 @@
+{
+  "properties": [
+    {
+      "address": "123 Main St, Springfield",
+      "price": 348000
+    },
+    {
+      "address": "456 Oak Ave, Shelbyville",
+      "price": 410000
+    },
+    {
+      "address": "789 Elm St, Capital City",
+      "price": 295000
+    }
+  ]
+}
